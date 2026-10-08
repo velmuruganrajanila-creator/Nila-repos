@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build & Dependency Directories
+target/
+dependency-reduced-pom.xml
+
+# Logs & Diagnostics
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local

@@ -1,0 +1,8 @@
+.git
+.gitignore
+Jenkinsfile
+README.md
+*.log
+.DS_Store
+target
+dependency-reduced-pom.xml
